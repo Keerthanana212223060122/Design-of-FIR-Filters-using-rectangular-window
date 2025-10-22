@@ -9,7 +9,7 @@ To generate design of low pass FIR digital filter using SCILAB
 PC Installed with SCILAB 
 
 ## PROGRAM 
-```
+```python
 clc;
 clear;
 close;
